@@ -2,6 +2,8 @@
 To train a model for covid active small molecule and then makes prediction for unknown molecules. 
 All input and output are expected to be CSV files with a certain format, details see inside the example notebook.
 
+## The two provided covid19 CSV files are downloaded from an AI competition  https://aistudio.baidu.com/aistudio/competition/detail/1012/0/task-definition
+
 ## Try it now
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/covid_classification/blob/main/classification_chemprop.ipynb)
