@@ -1,6 +1,6 @@
 # covid_classification
-To train a model for covid active small molecule and then makes prediction for unknown molecules. 
-All input and output are expected to be CSV files with a certain format, details see inside the example notebook.
+
+A model has been developed to analyze active small molecules related to COVID-19 and subsequently predict the behaviour of unknown molecules. Inputs and outputs are required to adhere to a specific CSV format, as elucidated in the provided example notebook.
 
 ## The two provided covid19 CSV files are downloaded from an AI competition  
 
@@ -23,10 +23,7 @@ Directly execute all the codes in Google Colab, after modification of the files 
 
 3. ## What else it can do
 
-   Though here we used the model to train bioactivity you could apply this to any other chemical property in a
-   very similar way, for example, solubility.
-
-   Also, here we only provide a classification model, the regression model is also supported with minor modification
+While our focus has been on training the model for bioactivity, the approach can readily be adapted to other chemical properties, such as solubility. Additionally, although we've presented a classification model, with minor modifications, a regression model can also be implemented.
 
 ## Please cite the Chemprop paper if you find their algorithm useful in your research
 
