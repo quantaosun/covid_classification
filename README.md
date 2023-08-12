@@ -15,7 +15,9 @@ A model has been developed to analyze active small molecules related to COVID-19
 
  ## What else it can do
 
-While our focus has been on training the model for bioactivity, the approach can readily be adapted to other chemical properties, such as solubility. Additionally, although we've presented a classification model, with minor modifications, a regression model can also be implemented.
+While our focus has been on training the model for bioactivity, the approach can readily be adapted to other chemical properties, such as solubility, reaction energy barrier and spectrum prediciton. Additionally, although we've presented a classification model, with minor modifications, a regression model can also be implemented.
+
+- 
 
 ## Please cite the Chemprop paper if you find their algorithm useful in your research
 
