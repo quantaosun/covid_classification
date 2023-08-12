@@ -2,7 +2,9 @@
 To train a model for covid active small molecule and then makes prediction for unknown molecules. 
 All input and output are expected to be CSV files with a certain format, details see inside the example notebook.
 
-## The two provided covid19 CSV files are downloaded from an AI competition  https://aistudio.baidu.com/aistudio/competition/detail/1012/0/task-definition
+## The two provided covid19 CSV files are downloaded from an AI competition  
+
+[Baidu COVID19 prediction](https://aistudio.baidu.com/aistudio/competition/detail/1012/0/task-definition)
 
 ## Try it now
 
