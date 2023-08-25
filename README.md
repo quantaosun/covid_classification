@@ -12,6 +12,32 @@ A model has been developed to analyze active small molecules related to COVID-19
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/covid_classification/blob/main/classification_chemprop.ipynb)
 
+## Example of output
+
+```
+Model 0 test auc = 0.932412
+Model 0 test accuracy = 0.942515
+Model 0 test binary_cross_entropy = 0.177413
+Model 0 test f1 = 0.757576
+Model 0 test mcc = 0.733754
+Ensemble test auc = 0.932412
+Ensemble test accuracy = 0.942515
+Ensemble test binary_cross_entropy = 0.177413
+Ensemble test f1 = 0.757576
+Ensemble test mcc = 0.733754
+1-fold cross validation
+	Seed 0 ==> test auc = 0.932412
+	Seed 0 ==> test accuracy = 0.942515
+	Seed 0 ==> test binary_cross_entropy = 0.177413
+	Seed 0 ==> test f1 = 0.757576
+	Seed 0 ==> test mcc = 0.733754
+Overall test auc = 0.932412 +/- 0.000000
+Overall test accuracy = 0.942515 +/- 0.000000
+Overall test binary_cross_entropy = 0.177413 +/- 0.000000
+Overall test f1 = 0.757576 +/- 0.000000
+Overall test mcc = 0.733754 +/- 0.000000
+Elapsed time = 0:08:02
+```
 
  ## What else it can do
 
